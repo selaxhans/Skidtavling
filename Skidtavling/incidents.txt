@@ -1,0 +1,6 @@
+0; Dålig vallning; 0; False; 1
+1; Omkullåkning; 1; True; 2
+2; kollision ; 2; True; 2
+3; Benbrott; 3; False; 4
+4; Stavbrott; 5; True; 1
+5; Kraftigt snöfall; 6; True; 3

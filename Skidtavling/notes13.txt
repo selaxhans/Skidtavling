@@ -1,0 +1,3 @@
+
+
+ isOK = Wlogg.nyevent(1,"Målgång",5,p.getForName() +" "+ p.getLastName());
